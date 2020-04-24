@@ -1,0 +1,234 @@
+Name,Rank,fblink,twitterlink,fbname,fbid,date,Students,Academic staff,Administrative staff,Type,Website,fblikes,fbfollows
+Princeton University,1.0,PrincetonU,Princeton,Princeton University,18058830773.0,2020-04-22 17:10,8374.0,1289.0,1103.0,Private,princeton.edu,584697.0,588190.0
+Harvard University,2.0,Harvard,Harvard,Harvard University,105930651606.0,2020-04-22 17:11,20739.0,2400.0,,Private,harvard.edu,5568131.0,5600102.0
+Yale University,3.0,YaleUniversity,Yale,Yale University,374809010319.0,2020-04-22 17:12,13609.0,4410.0,,Private,yale.edu,1347002.0,1348910.0
+Columbia University,4.0,columbia,Columbia,Columbia University in the City of New York,102471088936.0,2020-04-22 17:13,33413.0,4370.0,,Private,columbia.edu,399086.0,408974.0
+Stanford University,4.0,stanford,Stanford,Stanford University,6192688417.0,2020-04-22 17:14,17249.0,2240.0,12508.0,Private,www.stanford.edu,1338992.0,1356396.0
+University of Chicago,4.0,uchicago,UChicago,The University of Chicago,192609620649.0,2020-04-22 17:15,16445.0,2859.0,15949.0,Private,www.uchicago.edu,253404.0,257605.0
+Massachusetts Institute of Technology,7.0,MITnews,MIT,Massachusetts Institute of Technology (MIT),126533127390327.0,2020-04-22 17:16,11520.0,1074.0,,Private,web.mit.edu,1250340.0,1281121.0
+Duke University,8.0,DukeUniv,DukeU,Duke University,21489041474.0,2020-04-22 17:17,15892.0,3774.0,8880.0,Private,www.duke.edu,359713.0,357499.0
+University of Pennsylvania,9.0,UnivPennsylvania,Penn,University of Pennsylvania,98508878775.0,2020-04-22 17:18,22432.0,4793.0,,Private,upenn.edu,220223.0,230511.0
+California Institute of Technology,10.0,californiainstituteoftechnology,Caltech,California Institute of Technology - Caltech,6391532964.0,2020-04-22 17:19,2233.0,300.0,,Private,www.caltech.edu,376151.0,379694.0
+Johns Hopkins University,10.0,johnshopkinsuniversity,JohnsHopkins,Johns Hopkins University,20835777216.0,2020-04-22 17:20,26402.0,,,Private,www.jhu.edu,232530.0,240644.0
+Dartmouth College,12.0,Dartmouth,dartmouth,Dartmouth,1.01538850933411e+16,2020-04-22 17:21,6608.0,943.0,2938.0,Private,dartmouth.edu,97322.0,98916.0
+Northwestern University,12.0,NorthwesternU,NorthwesternU,Northwestern University,228401243342.0,2020-04-22 17:22,21208.0,3401.0,,Private,northwestern.edu,152244.0,156446.0
+Brown University,14.0,BrownUniversity,BrownUniversity,Brown University,140998521533.0,2020-04-22 17:23,10333.0,816.0,,Private,brown.edu,253043.0,255236.0
+Cornell University,15.0,Cornell,Cornell,Cornell University,8570160131.0,2020-04-22 17:24,24027.0,1639.0,,Private,cornell.edu,396809.0,398554.0
+Vanderbilt University,15.0,vanderbilt,VanderbiltU,Vanderbilt University,61441666906.0,2020-04-22 17:25,13131.0,1816.0,,Private,www.vanderbilt.edu,118925.0,119945.0
+Washington University in St. Louis,15.0,wustl,WUSTL,Washington University in St. Louis,93768131177.0,2020-04-22 17:25,15045.0,3819.0,12609.0,Private,wustl.edu,74691.0,77564.0
+Rice University,18.0,RiceUniversity,RiceUniversity,Rice University,28331765549.0,2020-04-22 17:25,7124.0,680.0,2152.0,Private,www.rice.edu,56428.0,59347.0
+University of Notre Dame,18.0,notredame,NotreDame,University of Notre Dame,113174253097.0,2020-04-22 17:25,12292.0,1309.0,,Private,www.nd.edu,189795.0,191626.0
+University of California - Berkeley,20.0,UCBerkeley,UCBerkeley,UC Berkeley,10111634660.0,2020-04-22 17:25,43204.0,,,Public,www.berkeley.edu,478665.0,482110.0
+Emory University,21.0,EmoryUniversity,EmoryUniversity,Emory University,42543126981.0,2020-04-22 17:25,15451.0,,,Private,www.emory.edu,86424.0,89801.0
+Georgetown University,21.0,georgetownuniv,Georgetown,Georgetown University,8825331245.0,2020-04-22 17:25,19005.0,2173.0,1500.0,Private,www.georgetown.edu,163514.0,167017.0
+Carnegie Mellon University,23.0,carnegiemellonu,CarnegieMellon,Carnegie Mellon University,7133766387.0,2020-04-22 17:25,14799.0,1483.0,,Private,www.cmu.edu,139301.0,142366.0
+University of California - Los Angeles,23.0,uclabruins,ucla,"UCLA - University of California, Los Angeles",144762138931226.0,2020-04-22 17:25,45742.0,4016.0,26139.0,Public,ucla.edu,1533.0,1529.0
+University of Southern California,23.0,usc,USC,University of Southern California,134972803193847.0,2020-04-22 17:25,45687.0,4451.0,15717.0,Private,www.usc.edu,315690.0,321109.0
+University of Virginia,26.0,UniversityofVirginia,UVA,University of Virginia,12527153330.0,2020-04-22 17:25,24639.0,3265.0,6292.0,Public,virginia.edu,190126.0,191266.0
+Tufts University,27.0,tuftsu,TuftsUniversity,Tufts University,9594588036.0,2020-04-22 17:25,11489.0,1706.0,,Private,www.tufts.edu,54154.0,56184.0
+Wake Forest University,27.0,wfuniversity,WakeForest,Wake Forest University,200102664457.0,2020-04-22 17:26,8495.0,6281.0,,Private,www.wfu.edu,45107.0,46449.0
+University of Michigan - Ann Arbor,29.0,universityofmichigan,UMichiganNews,University of Michigan,21105780752.0,2020-04-22 17:26,46002.0,6771.0,18986.0,Public,www.umich.edu,784734.0,761174.0
+Boston College,30.0,BostonCollege,BostonCollege,Boston College,87873693141.0,2020-04-22 17:26,14559.0,1848.0,2690.0,Private,www.bc.edu,135588.0,138300.0
+University of North Carolina - Chapel Hill,30.0,uncchapelhill,unc,University of North Carolina at Chapel Hill,103106449730257.0,2020-04-22 17:26,29847.0,3696.0,8287.0,Public,www.unc.edu,282970.0,280568.0
+New York University,32.0,NYU,nyuniversity,New York University,103256838688.0,2020-04-22 17:26,51848.0,9835.0,2242.0,Private,nyu.edu,820618.0,831249.0
+University of Rochester,33.0,University.of.Rochester,UofR,University of Rochester,6102569031.0,2020-04-22 17:26,12233.0,,1225.0,Private,www.rochester.edu,58690.0,60466.0
+Brandeis University,34.0,brandeisuniversity,BrandeisU,Brandeis University,17361612299.0,2020-04-22 17:26,5800.0,542.0,1146.0,Private,www.brandeis.edu,29678.0,31138.0
+College of William and Mary,34.0,williamandmary,williamandmary,College of William and Mary,108547362510304.0,2020-04-22 17:26,8817.0,738.0,,Private,www.wm.edu,65753.0,66516.0
+Georgia Institute of Technology,36.0,georgiatech,GeorgiaTech,Georgia Institute of Technology,112517705427268.0,2020-04-22 17:57,32718.0,1740.0,5923.0,Public,www.gatech.edu,158564.0,162628.0
+Case Western Reserve University,37.0,casewesternreserve,cwru,Case Western Reserve University,284651318085.0,2020-04-22 17:57,11874.0,3501.0,,Private,www.case.edu,37156.0,39205.0
+University of California - Santa Barbara,37.0,ucsantabarbara,ucsantabarbara,"University of California, Santa Barbara campus",174450619356765.0,2020-04-22 17:57,26314.0,2749.0,,Public,www.ucsb.edu,103591.0,104704.0
+University of California - Irvine,39.0,UCIrvine,UCIrvine,"University of California, Irvine",41279335994.0,2020-04-22 17:57,35220.0,5596.0,6426.0,Public,www.uci.edu,115476.0,117774.0
+University of California - San Diego,39.0,usandiego,UCSanDiego,University of San Diego,36689795929.0,2020-04-22 17:58,38736.0,10625.0,24212.0,Public,www.ucsd.edu,47261.0,48720.0
+Boston University,41.0,BostonUniversity,BU_Tweets,Boston University,20697868961.0,2020-04-22 17:58,34262.0,4021.0,10182.0,Private,www.bu.edu,368389.0,372040.0
+Rensselaer Polytechnic Institute,41.0,RPI.EDU,RPInews,Rensselaer Polytechnic Institute,43911742356.0,2020-04-22 17:58,8142.0,488.0,1291.0,Private,www.rpi.edu,28110.0,29133.0
+Tulane University,41.0,TulaneU,TulaneNews,Tulane University,13713711012.0,2020-04-22 17:58,14062.0,1200.0,2900.0,Private,www.tulane.edu,58249.0,58932.0
+University of California - Davis,41.0,UCDavis,UCDavis,UC Davis,13917075214.0,2020-04-22 18:07,39152.0,2133.0,21486.0,Public,ucdavis.edu,130102.0,132672.0
+University of Illinois - Urbana- Champaign,41.0,illinois.edu,Illinois_Alma,University of Illinois at Urbana-Champaign,163536409904.0,2020-04-22 18:12,51196.0,2548.0,7801.0,Public,www.illinois.edu,241882.0,243243.0
+University of Wisconsin - Madison,41.0,UWMadison,UWMadison,University of Wisconsin-Madison,55528788113.0,2020-04-22 18:12,44413.0,2220.0,,Public,wisc.edu,306389.0,304236.0
+Lehigh University,47.0,lehighu,LehighU,Lehigh University,6273769863.0,2020-04-22 18:12,6849.0,540.0,1196.0,Private,www.lehigh.edu,31220.0,32459.0
+Northeastern University,47.0,northeastern,Northeastern,Northeastern University,369463984811.0,2020-04-22 18:12,27391.0,1844.0,,Private,www.northeastern.edu,116484.0,119021.0
+Pennsylvania State University - University Park,47.0,pennstate,penn_state,"Pennsylvania State University, University Park",252834291549306.0,2020-04-22 18:17,96408.0,8864.0,,Public,www.psu.edu,410463.0,389588.0
+University of Florida,47.0,uflorida,UF,University of Florida,44496359631.0,2020-04-22 18:17,56079.0,8231.0,6556.0,,www.ufl.edu,679927.0,668389.0
+University of Miami,51.0,UniversityofMiami,univmiami,University of Miami,17767109610.0,2020-04-22 18:17,17811.0,3226.0,13620.0,Private,miami.edu,257754.0,257145.0
+Ohio State University - Columbus,52.0,osu,OhioState,The Ohio State University,6711658857.0,2020-04-22 18:17,61391.0,7310.0,27158.0,Public,osu.edu,717310.0,696895.0
+Pepperdine University,52.0,pepperdine,pepperdine,Pepperdine University,177504466223.0,2020-04-22 18:17,7961.0,393.0,,Private,pepperdine.edu,52100.0,52774.0
+University of Texas - Austin,52.0,UTAustinTX,UTAustin,The University of Texas at Austin,245640871929.0,2020-04-22 18:17,51832.0,3133.0,11645.0,,www.utexas.edu,680796.0,667085.0
+University of Washington,52.0,UofWA,UW,University of Washington,8829726273.0,2020-04-22 18:17,47899.0,5803.0,16174.0,Public,www.washington.edu,357750.0,353273.0
+Yeshiva University,52.0,YeshivaUniversity,YUNews,Yeshiva University,8301814001.0,2020-04-22 18:18,,4714.0,,Private,www.yu.edu,19366.0,20131.0
+George Washington University,57.0,georgewashingtonuniversity,GWtweets,The George Washington University,71731005912.0,2020-04-22 18:18,27159.0,2663.0,,Private,www.gwu.edu,170905.0,173421.0
+University of Connecticut,57.0,Uconn,UConn,University of Connecticut,104003526301972.0,2020-04-22 18:18,32257.0,4624.0,,Public,www.uconn.edu,101742.0,103498.0
+University of Maryland - College Park,57.0,UnivOfMaryland,UofMaryland,"University of Maryland, College Park",113889395291269.0,2020-04-22 18:18,41200.0,4610.0,5481.0,public,www.umd.edu,151330.0,152730.0
+Worcester Polytechnic Institute,57.0,wpi.edu,WPI,Worcester Polytechnic Institute (WPI),89420598745.0,2020-04-22 18:18,,478.0,,Private,www.wpi.edu,28849.0,29831.0
+Clemson University,61.0,clemsonuniv,ClemsonUniv,Clemson University,27327574931.0,2020-04-22 18:18,24951.0,1431.0,3451.0,Public,www.clemson.edu,221619.0,222581.0
+Purdue University,61.0,PurdueUniversity,LifeAtPurdue,Purdue University,100526673914.0,2020-04-22 18:20,43411.0,3055.0,,Public,www.purdue.edu,250845.0,249705.0
+Southern Methodist University,61.0,smudallas,SMU,Southern Methodist University,107765955919414.0,2020-04-22 18:20,11824.0,807.0,,Private,www.smu.edu,66013.0,67836.0
+Syracuse University,61.0,syracuseuniversity,SyracuseU,Syracuse University,15932409357.0,2020-04-22 18:20,22850.0,1563.0,,Private,www.syracuse.edu,180200.0,178301.0
+University of Georgia,61.0,uga.edu,universityofga,University of Georgia,21657666681.0,2020-04-22 18:20,38245.0,3240.0,,Public,uga.edu,361.0,369.0
+Brigham Young University,66.0,BYU,BYU,"Brigham Young University, Provo",467220416805979.0,2020-04-22 18:21,33633.0,1264.0,1200.0,Private,www.byu.edu,377549.0,372549.0
+Fordham University,66.0,FordhamUniversity,fordhamnotes,Fordham University,61270553970.0,2020-04-22 18:21,16037.0,1210.0,,Private,fordham.edu,69661.0,71514.0
+University of Pittsburgh,66.0,upitt,PittTweet,University of Pittsburgh,82850948181.0,2020-04-22 18:21,28391.0,5240.0,,,www.pitt.edu,89098.0,91959.0
+University of Minnesota - Twin Cities,69.0,UofMN,UMNews,University of Minnesota - Twin Cities,142943162441779.0,2020-04-22 18:22,47783.0,3804.0,,Public,www.umn.edu,193148.0,191433.0
+Texas A&M University,70.0,tamu,TAMU,Texas A&M University,25493258171.0,2020-04-22 18:30,69465.0,4900.0,,,www.tamu.edu,639531.0,630796.0
+Virginia Tech,70.0,virginiatech,virginia_tech,Virginia Tech,50719463053.0,2020-04-22 18:30,33403.0,1395.0,,Public,www.vt.edu,210782.0,210237.0
+American University,72.0,AmericanUniversity,AmericanU,American University,54415572996.0,2020-04-22 18:31,14311.0,,,Private,american.edu,261180.0,264068.0
+Baylor University,72.0,61388081925,Baylor,Baylor University,61388081925.0,2020-04-22 18:31,18033.0,1250.0,,Private,www.baylor.edu,226893.0,224449.0
+Rutgers,72.0,150479944963557,RutgersU,"Rutgers, The State University of New Jersey - New Brunswick/Piscataway",253661011450620.0,2020-04-22 18:32,68942.0,4314.0,6757.0,Private,www.rutgers.edu,22388.0,23361.0
+Clark University,75.0,89555183497,ClarkUniversity,Clark University,89555183497.0,2020-04-22 18:32,3095.0,212.0,,Private,www.clarku.edu,21225.0,22095.0
+Colorado School of Mines,75.0,ColoradoSchoolofMines,coschoolofmines,Colorado School of Mines,59645937006.0,2020-04-22 18:32,6117.0,,,Public,www.mines.edu,36696.0,37956.0
+Indiana University - Bloomington,75.0,IndianaUniversity,IUBloomington,Indiana University,108531479171922.0,2020-04-22 18:32,43710.0,2149.0,,Public,www.indiana.edu,289000.0,285094.0
+Michigan State University,75.0,spartans.msu,michiganstateu,Michigan State University,8891783019.0,2020-04-22 18:32,49809.0,5703.0,7365.0,Public,www.msu.edu,495878.0,483628.0
+Stevens Institute of Technology,75.0,Stevens1870,FollowStevens,Stevens Institute of Technology,21612197888.0,2020-04-22 18:32,6125.0,291.0,,Private,www.stevens.edu,28931.0,29693.0
+University of Delaware,75.0,udelaware,UDelaware,University of Delaware,140008733585.0,2020-04-22 18:32,24120.0,1172.0,4004.0,Private,www.udel.edu,86823.0,88955.0
+University of Massachusetts - Amherst,75.0,UMassAmherst,UMassAmherst,University of Massachusetts Amherst,107699999259360.0,2020-04-22 18:32,30593.0,1300.0,,Public,www.umass.edu,94701.0,95593.0
+Miami University,82.0,MiamiUniversity,CityofMiami,Miami University,75387987874.0,2020-04-22 18:33,19752.0,973.0,,Public,www.miamioh.edu,94299.0,95729.0
+Texas Christian University,82.0,TCUTexasChristianUniversity,TCU,TCU – Texas Christian University,155151195064.0,2020-04-22 18:33,10394.0,981.0,,Private,www.tcu.edu,91962.0,93701.0
+University of California - Santa Cruz,82.0,ucsantacruz,UCSC,UC Santa Cruz,8686764758.0,2020-04-22 18:33,19700.0,,,Public,www.ucsc.edu,59808.0,60585.0
+University of Iowa,82.0,universityofiowa,uiowa,University of Iowa,41486668846.0,2020-04-22 18:33,32948.0,,2296.0,Public,uiowa.edu,184355.0,184934.0
+Marquette University,86.0,MarquetteU,MarquetteU,Marquette University,141974332502793.0,2020-04-22 18:33,11600.0,1200.0,,Private,www.marquette.edu,56316.0,58393.0
+University of Denver,86.0,uofdenver,UofDenver,University of Denver,25062563980.0,2020-04-22 18:33,11614.0,1276.0,1850.0,Private,www.du.edu,46853.0,48843.0
+University of Tulsa,86.0,utulsa.edu,utulsa,The University of Tulsa,63839636019.0,2020-04-22 18:33,4352.0,306.0,,Private,www.utulsa.edu,23355.0,24454.0
+Binghamton University,89.0,BinghamtonU,binghamtonu,Binghamton University,51791915551.0,2020-04-22 18:38,17727.0,754.0,,Public,www.binghamton.edu,67927.0,68453.0
+North Carolina State University,89.0,ncstate,ncstate,North Carolina State University,108513422506580.0,2020-04-22 18:39,35479.0,2336.0,6773.0,Public,www.ncsu.edu,153341.0,155029.0
+Stony Brook University,89.0,stonybrooku,stonybrooku,Stony Brook University,128165873906144.0,2020-04-22 18:39,26814.0,2738.0,,Public,www.stonybrook.edu,54594.0,55547.0
+SUNY College of Environmental Science and Forestry,89.0,suny-esf,sunyesf,SUNY College of Environmental Science and Forestry,114466385237041.0,2020-04-22 18:39,2220.0,128.0,,Public,www.esf.edu,12744.0,13368.0
+University of Colorado Boulder,89.0,cuboulder,CUBoulder,University of Colorado Boulder,83086245170.0,2020-04-22 18:39,35528.0,9160.0,,Public,www.colorado.edu,199821.0,201840.0
+University of San Diego,89.0,usandiego,uofsandiego,University of San Diego,36689795929.0,2020-04-22 18:39,,875.0,,Private,www.sandiego.edu,47261.0,48720.0
+University of Vermont,89.0,UniversityofVermont,uvmvermont,University of Vermont,31152992636.0,2020-04-22 18:39,,1196.0,,Public,www.uvm.edu,45917.0,47899.0
+Florida State University,96.0,floridastate,floridastate,Florida State University,66191235143.0,2020-04-22 18:39,41551.0,5966.0,8133.0,,www.fsu.edu,227004.0,228544.0
+Saint Louis University,96.0,SaintLouisU,SLU_Official,Saint Louis University,17001615737.0,2020-04-22 18:39,12649.0,2270.0,6000.0,Private,www.slu.edu,71706.0,73344.0
+University of Alabama,96.0,universityofalabama,UofAlabama,University of Alabama,22360227546.0,2020-04-22 18:39,38563.0,1957.0,,Public,www.ua.edu,565614.0,556617.0
+Drexel University,99.0,drexeluniv,DrexelUniv,Drexel University,186291828074120.0,2020-04-22 18:39,24190.0,,,Private,www.drexel.edu,80530.0,81985.0
+Loyola University Chicago,99.0,LoyolaChicago,LoyolaChicago,Loyola University Chicago,29464444855.0,2020-04-22 18:39,17159.0,784.0,1608.0,Private,luc.edu,58314.0,60029.0
+University at Buffalo,99.0,universityatbuffalo,buffalostate,University at Buffalo,8447447859.0,2020-04-22 18:39,31923.0,2509.0,,Public,www.buffalo.edu,73315.0,75675.0
+Auburn University,102.0,auburnu,AuburnU,Auburn University,11500923193.0,2020-04-22 18:39,30440.0,1330.0,3779.0,Public,www.auburn.edu,359679.0,355416.0
+University of Missouri,103.0,Mizzou,Mizzou,Mizzou,90109721511.0,2020-04-22 18:40,30046.0,3103.0,13804.0,Public,www.missouri.edu,275062.0,261669.0
+University of Nebraska,103.0,UNLincoln,UNLNews,University of Nebraska-Lincoln,7293092326.0,2020-04-22 18:40,25820.0,1397.0,,Public,www.unl.edu,143858.0,143997.0
+University of New Hampshire,103.0,universityofnewhampshire,UofNH,University of New Hampshire,56182416236.0,2020-04-22 18:40,15340.0,,586.0,Public,www.unh.edu,61884.0,63254.0
+University of Oregon,103.0,universityoforegon,Univ_Of_Oregon,University of Oregon,10515469841.0,2020-04-22 18:40,22615.0,2075.0,,Public,www.uoregon.edu,363385.0,356433.0
+University of Tennessee,103.0,UTKnoxville,UTKnoxville,"University of Tennessee, Knoxville",89769773068.0,2020-04-22 18:40,28894.0,1700.0,9791.0,public,www.utk.edu,276095.0,270406.0
+Illinois Institute of Technology,108.0,IITScarletHawks,illinoistech,Illinois Institute of Technology,36468486506.0,2020-04-22 18:40,7266.0,659.0,,Private,www.iit.edu,276095.0,270406.0
+Iowa State University,108.0,IowaStateU,IowaStateU,Iowa State University,90992161392.0,2020-04-22 18:40,33391.0,1845.0,,Public,www.iastate.edu,96606.0,99066.0
+University of Dayton,108.0,30635010777,univofdayton,University of Dayton,30635010777.0,2020-04-22 18:40,,1035.0,,Private,www.udayton.edu,60513.0,61771.0
+University of Oklahoma,108.0,uoklahoma,UofOklahoma,University of Oklahoma,10049970637.0,2020-04-22 18:40,28564.0,2937.0,,Public,www.ou.edu,97.0,111.0
+University of San Francisco,108.0,University.of.San.Francisco,usfca,University of San Francisco,108066499194.0,2020-04-22 18:40,10636.0,1174.0,1083.0,Private,www.usfca.edu,55625.0,56905.0
+University of South Carolina,108.0,uofsc,UofSC,University of South Carolina,41091071801.0,2020-04-22 18:40,35364.0,1604.0,,Public,www.sc.edu,163605.0,164545.0
+University of the Pacific (United States),108.0,universityofthepacific,UOPacific,University of the Pacific,28972094743.0,2020-04-22 18:43,6447.0,431.0,,Private,www.pacific.edu,28802.0,29261.0
+Clarkson University,115.0,ClarksonUniversity,ClarksonUniv,Clarkson University,12682837881.0,2020-04-22 18:43,4300.0,309.0,,Private,www.clarkson.edu,23484.0,23711.0
+Duquesne University,115.0,duquesneuniversityoftheholyspirit,duqedu,Duquesne University,152362551540463.0,2020-04-22 18:43,9344.0,,,Private,www.duq.edu,24677.0,25629.0
+Temple University,115.0,templeu,TempleUniv,Temple University,130405893644450.0,2020-04-22 18:43,39088.0,1646.0,4627.0,Public,temple.edu,96418.0,98268.0
+University of Kansas,115.0,KU,KUnews,University of Kansas,44728562961.0,2020-04-22 18:43,28423.0,2663.0,,Public,ku.edu,261573.0,253221.0
+University of St. Thomas (Texas),115.0,UofStThomasMN,UofStThomasMN,University of St. Thomas,326000096297.0,2020-04-22 18:45,3711.0,158.0,,Private,www.stthom.edu,33245.0,34371.0
+University of Utah,115.0,universityofutah,UUtah,University of Utah,7576735635.0,2020-04-22 18:45,32994.0,3214.0,9356.0,Public,www.utah.edu,153230.0,149262.0
+University of Arizona,121.0,uarizona,UofA,The University of Arizona,6096033309.0,2020-04-22 18:46,45918.0,3534.0,,Public,www.arizona.edu,274609.0,270703.0
+University of California - Riverside,121.0,UCRiverside,UCRiverside,"University of California, Riverside",107727705916498.0,2020-04-22 18:46,25548.0,1638.0,1938.0,Public,www.ucr.edu,83244.0,84803.0
+The Catholic University of America,123.0,CatholicUniversity,CatholicUniv,Catholic University of America,109731613809.0,2020-04-22 18:46,5956.0,694.0,,Private,Catholic.edu,31917.0,33376.0
+DePaul University,123.0,DePaulUniversity,DePaulU,DePaul University,29758740802.0,2020-04-22 18:46,,950.0,,Private,www.depaul.edu,81830.0,83183.0
+Michigan Technological University,123.0,michigantech,michigantech,Michigan Technological University,5652694310.0,2020-04-22 18:46,7270.0,477.0,1153.0,Public,www.mtu.edu,45800.0,46549.0
+Seton Hall University,123.0,setonhall,SetonHall,Seton Hall University,39804115087.0,2020-04-22 18:46,,,860.0,Private,www.shu.edu,31455.0,32222.0
+Colorado State University,127.0,coloradostateuniversity,ColoradoStateU,Colorado State University,136298855614.0,2020-04-22 18:46,33877.0,1468.0,4379.0,Public,www.colostate.edu,165847.0,166665.0
+New School,127.0,thenewschool,TheNewSchool,New School,9889734678.0,2020-04-22 18:46,10186.0,2230.0,,Private,www.newschool.edu,104880.0,107126.0
+Arizona State University,129.0,arizonastateuniversity,ASU,Arizona State University,965907990126520.0,2020-04-22 18:46,51585.0,4704.0,,Public,www.asu.edu,297306.0,299478.0
+Louisiana State University,129.0,geauxlsu,lsu,"Louisiana State University, Baton Rouge",106484292721659.0,2020-04-22 18:46,31761.0,1500.0,5000.0,,www.lsu.edu,771238.0,736068.0
+University at Albany,129.0,universityatalbany,ualbany,"University at Albany, SUNY",9199309733.0,2020-04-22 18:46,17743.0,682.0,,Public,www.albany.edu,46609.0,47190.0
+University of Arkansas,129.0,UofArkansas,UArkansas,University of Arkansas,7191390807.0,2020-04-22 18:46,27778.0,1353.0,3150.0,Public,www.uark.edu,88644.0,90597.0
+University of Illinois - Chicago,129.0,uic.edu,UICnews,University of Illinois - Chicago,19178688304.0,2020-04-22 18:47,33390.0,2817.0,,Public,www.uic.edu,70584.0,72940.0
+University of Kentucky,129.0,universityofky,universityofky,University of Kentucky,235601731818.0,2020-04-22 18:47,29182.0,,13145.0,Public,www.uky.edu,416111.0,404471.0
+George Mason University,135.0,georgemason,GeorgeMasonNews,George Mason University,5625209996.0,2020-04-22 18:47,38255.0,2609.0,2497.0,Public,www.gmu.edu,132935.0,132397.0
+Hofstra University,135.0,hofstrauniversity,HofstraU,Hofstra University,8291423279.0,2020-04-22 18:47,10871.0,3381.0,,Private,www.hofstra.edu,132935.0,132397.0
+Howard University,135.0,howarduniversity,HowardU,Howard University,38238012184.0,2020-04-22 18:47,10300.0,,,Private,howard.edu,132935.0,132397.0
+Ohio University,135.0,OhioUniversity,ohiou,Ohio University,143724205952.0,2020-04-22 18:47,18938.0,1970.0,,Public,www.ohio.edu,99121.0,99632.0
+New Jersey Institute of Technology,140.0,NewJerseyInstituteofTechnology,NJIT,New Jersey Institute of Technology,109313869087161.0,2020-04-22 18:56,11518.0,563.0,,Public,www.njit.edu,31923.0,32344.0
+Rutgers,140.0,RutgersU,RutgersU,Rutgers University,172636137574.0,2020-04-22 18:56,68942.0,4314.0,6757.0,Private,www.rutgers.edu,94223.0,97320.0
+University of Cincinnati,140.0,uofcincinnati,uofcincy,University of Cincinnati,93602576932.0,2020-04-22 18:56,46388.0,2388.0,4187.0,Public,www.uc.edu,76685.0,79424.0
+University of Mississippi,140.0,olemiss,OleMissRebels,University of Mississippi ~ Ole Miss,56900048284.0,2020-04-22 18:56,23258.0,871.0,,Public,www.olemiss.edu,93175.0,94247.0
+University of Texas - Dallas,140.0,utdallas,UT_Dallas,University of Texas at Dallas,105709269462549.0,2020-04-22 18:56,29543.0,1361.0,,Public,www.utdallas.edu,64978.0,66262.0
+Washington State University,140.0,WSUPullman,WSUPullman,Washington State University,133018306730783.0,2020-04-22 18:56,30614.0,2261.0,,Public,www.wsu.edu,106662.0,108304.0
+Kansas State University,146.0,KState,KState,Kansas State University,44158497872.0,2020-04-22 18:57,21719.0,1404.0,,Public,k-state.edu,159606.0,157144.0
+Missouri University of Science & Technology,146.0,MissouriSandT,MissouriSandT,Missouri University of Science and Technology,25707364043.0,2020-04-22 18:57,8884.0,492.0,973.0,Public,www.mst.edu,29251.0,29988.0
+St. John Fisher College,146.0,StJohnFisherCollege,FisherNews,St. John Fisher College,51647231565.0,2020-04-22 18:57,,,,Private,www.sjfc.edu,13801.0,17831.0
+Illinois State University,149.0,IllinoisStateUniversity,IllinoisStateU,Illinois State University,18773072443.0,2020-04-22 18:57,20784.0,,3563.0,Public,illinoisstate.edu,74158.0,74576.0
+Oklahoma State University,149.0,39013362306,okstate,Oklahoma State University,39013362306.0,2020-04-22 18:57,25295.0,,1857.0,Public,go.okstate.edu,212110.0,208459.0
+San Diego State University,149.0,SanDiegoState,SDSU,San Diego State University Georgia,943531925676057.0,2020-04-22 18:57,35081.0,1491.0,1591.0,Public,www.sdsu.edu,127670.0,129701.0
+University of Alabama - Birmingham,149.0,UAB.edu,UABNews,UAB - The University of Alabama at Birmingham,118776374862740.0,2020-04-22 18:57,21923.0,2605.0,,Public,www.uab.edu,57538.0,62102.0
+Adelphi University,153.0,AdelphiU,AdelphiU,Adelphi University,116648575013047.0,2020-04-22 18:57,7859.0,1013.0,,Private,www.adelphi.edu,21874.0,22715.0
+Southern Illinois University,153.0,SouthernIllinoisUniversityCarbondale,SIUC,Southern Illinois University Carbondale,34425751898.0,2020-04-22 18:57,,,,,siusystem.edu,80936.0,80460.0
+St. John's University (New York City),153.0,stjohnsu,StJohnsU,St. John's University,66546088125.0,2020-04-22 18:59,21087.0,1471.0,,Private,www.stjohns.edu,41389.0,42178.0
+University of Maryland,156.0,umbcpage,UMBC,"University of Maryland, Baltimore County",112267178789210.0,2020-04-22 18:59,41200.0,4610.0,5481.0,public,www.umd.edu,24760.0,25795.0
+University of Massachusetts,156.0,umlowell,UMassLowell,University of Massachusetts Lowell,112619552088602.0,2020-04-22 18:59,72796.0,,17506.0,Public,www.massachusetts.edu,32854.0,33661.0
+University of South Florida,156.0,USouthFlorida,USouthFlorida,University of South Florida,199045530083.0,2020-04-22 18:59,50755.0,16028.0,,Public,usf.edu,188027.0,188403.0
+Virginia Commonwealth University,156.0,virginiacommonwealthuniversity,VCU,Virginia Commonwealth University,22922516119.0,2020-04-22 18:59,31242.0,3279.0,11252.0,Public,www.vcu.edu,126399.0,125425.0
+University of La Verne,160.0,theuniversityoflaverne,ULaVerne,University of La Verne,347968898595738.0,2020-04-22 18:59,,,,Private,www.laverne.edu,126399.0,125425.0
+Biola University,161.0,Biola,biolau,Biola University,18379179328.0,2020-04-22 19:00,,475.0,,Private,biola.edu,86951.0,85133.0
+Florida Institute of Technology,161.0,FloridaInstituteofTechnology,FloridaTech,Florida Institute of Technology,112130441084.0,2020-04-22 19:00,6402.0,585.0,,Private,www.fit.edu,40324.0,40831.0
+Immaculata University,161.0,Immaculata.University,ImmaculataU,Immaculata University,64886281304.0,2020-04-22 19:00,,80.0,,Private,https://www.immaculata.edu,31118.0,30941.0
+Maryville University of St. Louis,161.0,MaryvilleUniversity,MaryvilleU,Maryville University of St. Louis,110929238931446.0,2020-04-22 19:00,6414.0,300.0,,Private,www.maryville.edu,14275.0,14954.0
+Mississippi State University,161.0,msstate,msstate,Mississippi State University,5606464563.0,2020-04-22 19:00,22226.0,1359.0,3361.0,Public,www.msstate.edu,187534.0,186888.0
+University of Hawaii - Manoa,161.0,uhmanoa,Uhmanoa,University of Hawaii at Manoa,42509314000.0,2020-04-22 19:00,17710.0,,,Public,manoa.hawaii.edu,61374.0,62476.0
+University of Rhode Island,161.0,universityofri,universityofri,University of Rhode Island,60011053571.0,2020-04-22 19:00,17064.0,,675.0,Public,www.uri.edu,56846.0,58169.0
+Ball State University,168.0,ballstate,BallState,Ball State University,144262250806.0,2020-04-22 19:00,22513.0,1245.0,,Public,www.bsu.edu,87493.0,87444.0
+Texas Tech University,168.0,TexasTechYou,TexasTech,Texas Tech University,44930080504.0,2020-04-22 19:00,38209.0,2554.0,,Public,www.ttu.edu,264356.0,259994.0
+University of Central Florida,168.0,UCF,UCF,University of Central Florida,35078114590.0,2020-04-22 19:00,69525.0,2533.0,10624.0,Public,www.ucf.edu,291658.0,287927.0
+University of Idaho,168.0,uidaho,uidaho,University of Idaho,8990210995.0,2020-04-22 19:00,11534.0,,,Public,www.uidaho.edu,39429.0,39996.0
+University of Louisville,168.0,UniversityofLouisville,UofL,University of Louisville,144685855898.0,2020-04-22 19:01,21430.0,1776.0,4585.0,Public,www.louisville.edu,81453.0,82073.0
+University of Maine,168.0,USouthernMaine,UMaine,University of Southern Maine,9795912450.0,2020-04-22 19:01,11561.0,578.0,,Public,www.umaine.edu,17744.0,18276.0
+University of Wyoming,168.0,uwpride,Uwyonews,University of Wyoming,149637968562696.0,2020-04-22 19:01,12450.0,1025.0,1846.0,Public,www.uwyo.edu,65649.0,66208.0
+Andrews University,175.0,andrewsuniversity,AndrewsUniv,Andrews University,67314464585.0,2020-04-22 19:01,3366.0,254.0,,Private,www.andrews.edu,29888.0,30894.0
+Azusa Pacific University,175.0,azusapacific,azusapacific,Azusa Pacific University,19891038408.0,2020-04-22 19:01,10095.0,1235.0,1062.0,Private,apu.edu,45126.0,44993.0
+Edgewood College,175.0,edgewoodcollege,EdgewoodCollege,Edgewood College,110613318388.0,2020-04-22 19:01,,150.0,,Private,www.edgewood.edu,7552.0,7988.0
+Kent State University,175.0,kentstate,KentState,Kent State University,19249249844.0,2020-04-22 19:01,26804.0,2623.0,6822.0,Public,www.kent.edu,93246.0,94227.0
+West Virginia University,175.0,wvumountaineers,WestVirginiaU,West Virginia University,105579262808282.0,2020-04-22 19:01,29959.0,1870.0,7566.0,Public,wvu.edu,293397.0,288781.0
+Pace University,180.0,paceuniversity,PaceUniversity,Pace University,23489317340.0,2020-04-22 19:01,13312.0,1238.0,1527.0,Private,pace.edu,49260.0,50293.0
+St. Mary's University of Minnesota,180.0,smumn,smumn,St. Mary's University of Minnesota,110311202323091.0,2020-04-22 19:01,5900.0,96.0,,Private,www.smumn.edu,13483.0,13831.0
+University of New Mexico,180.0,universityofnewmexico,UNM,University of New Mexico,21749746264.0,2020-04-22 19:01,26278.0,,6899.0,Public,www.unm.edu,61474.0,64660.0
+University of North Dakota,180.0,myUND,myUND,University of North Dakota,9275555010.0,2020-04-22 19:01,13581.0,823.0,2051.0,Public,www.und.edu,61474.0,64660.0
+University of South Dakota,180.0,UniversityofSouthDakota,usd,University of South Dakota,267498065938.0,2020-04-22 19:02,9971.0,453.0,,Public,www.usd.edu,21871.0,22689.0
+Bowling Green State University,185.0,26573965003,bgsu,Bowling Green State University,26573965003.0,2020-04-22 19:02,20395.0,1982.0,1916.0,Public,www.bgsu.edu,63423.0,63974.0
+North Dakota State University,185.0,ndsu.fargo,NDSU,Northa Dakota State University,23465078274.0,2020-04-22 19:02,13173.0,858.0,1720.0,Public,www.ndsu.edu,59967.0,59879.0
+South Dakota State University,187.0,SouthDakotaStateUniversity,SDState,South Dakota State University,88914146646.0,2020-04-22 19:02,12613.0,674.0,,Public,www.sdstate.edu,56071.0,56625.0
+University of Alabama,187.0,UAHuntsville,UAHuntsville,University of Alabama in Huntsville,105800559453373.0,2020-04-22 19:02,38563.0,1957.0,,Public,www.ua.edu,15228.0,15915.0
+University of Houston,187.0,universityofhouston,UHouston,University of Houston,271199144875.0,2020-04-22 19:02,42704.0,4038.0,,Public,uh.edu,188983.0,192830.0
+University of Nevada,187.0,UniversityofNevada,unevadareno,University of Nevada - Reno,8455795859.0,2020-04-22 19:02,21657.0,1528.0,,Public,www.unr.edu,57933.0,59951.0
+University of North Carolina,187.0,uncg1891,UNCG,The University of North Carolina at Greensboro - UNCG,107484458589.0,2020-04-22 19:02,239987.0,13564.0,30664.0,Public,www.northcarolina.edu,50815.0,51542.0
+Western Michigan University,187.0,wmich,wmunews,Western Michigan University,10022826163.0,2020-04-22 19:02,21470.0,864.0,,Public,www.wmich.edu,50815.0,51542.0
+Widener University,187.0,wideneruniversity,WidenerUniv,Widener University,88516856269.0,2020-04-22 19:02,6464.0,326.0,,Private,www.widener.edu,17115.0,17396.0
+Central Michigan University,194.0,cmich,CMUniversity,Central Michigan University,17606562865.0,2020-04-22 19:03,21705.0,1017.0,1441.0,Public,www.cmich.edu,89534.0,89135.0
+East Carolina University,194.0,EastCarolina,EastCarolina,East Carolina University,116593655069909.0,2020-04-22 19:03,29131.0,2004.0,3603.0,Public,www.ecu.edu,62590.0,64007.0
+South Carolina State University,194.0,113135285366837,SCSTATE1896,South Carolina State University,113135285366837.0,2020-04-22 19:03,2905.0,,,Public,www.scsu.edu,12274.0,12957.0
+University of Missouri,194.0,UMKansasCity,UMKansasCity,University of Missouri - Kansas City,106451999391470.0,2020-04-22 19:03,30046.0,3103.0,13804.0,Public,www.missouri.edu,33232.0,34404.0
+University of North Carolina,194.0,UNCCharlotte,uncc,University of North Carolina at Charlotte,107938585892881.0,2020-04-22 19:03,239987.0,13564.0,30664.0,Public,www.northcarolina.edu,77611.0,79184.0
+Ashland University,199.0,AshlandUniversity,Ashland_Univ,Ashland University,121733227868116.0,2020-04-22 19:03,5700.0,200.0,,Private,www.ashland.edu,16820.0,17114.0
+Indiana University,199.0,IUPUI,IndianaUniv,Indiana University-Purdue University Indianapolis (IUPUI),17389673405.0,2020-04-22 19:03,110436.0,8733.0,,Public,www.iu.edu,52235.0,53715.0
+Louisiana Tech University,199.0,latech,LATech,Louisiana Tech University,82256216314.0,2020-04-22 19:03,11957.0,,,Public,www.latech.edu,58455.0,57637.0
+New Mexico State University,199.0,newmexicostateuniversity,nmsu,New Mexico State University,39698831086.0,2020-04-22 19:03,24041.0,2519.0,,Public,www.nmsu.edu,57881.0,58875.0
+University of Colorado Denver,199.0,UCDenver,CUDenver,University of Colorado Denver,73610239330.0,2020-04-22 19:04,14947.0,4023.0,,Public,www.ucdenver.edu,51066.0,53005.0
+Barry University,,barryuniversity,BarryUniversity,Barry University,126706560675396.0,2020-04-22 19:05,8905.0,,,Private,www.barry.edu,120068.0,120036.0
+Benedictine University,,BenedictineUniversity,BenU1887,Benedictine University,33832613988.0,2020-04-22 19:05,,,,Private,www.ben.edu,13335.0,13629.0
+Bowie State University,,bowiestate,BowieState,Bowie State University,19847304467.0,2020-04-22 19:05,6171.0,220.0,372.0,Public,www.bowiestate.edu,13225.0,13796.0
+Cardinal Stritch University,,cardinalstritch,stritchu,Cardinal Stritch University,433392646710176.0,2020-04-22 19:05,2464.0,80.0,,Private,www.stritch.edu,4586.0,4771.0
+Clark Atlanta University,,ClarkAtlantaUniversity,CAU,Clark Atlanta University,465842833431510.0,2020-04-22 19:05,3289.0,,,Private,www.cau.edu,43117.0,45431.0
+Cleveland State University,,clevelandstateuniversity,CLE_State,Cleveland State University,68928662834.0,2020-04-22 19:05,17260.0,511.0,1000.0,Public,www.csuohio.edu,41227.0,42948.0
+East Tennessee State University,,easttennesseestateuniversity,etsu,East Tennessee State University,109864595698886.0,2020-04-22 19:05,14334.0,806.0,,Public,www.etsu.edu,31796.0,32303.0
+Florida A&M University,,FAMU1887,FAMU_1887,Florida A&M University,16502236883.0,2020-04-22 19:07,10031.0,630.0,,Public,www.famu.edu,84698.0,86290.0
+Florida Atlantic University,,FloridaAtlantic,FloridaAtlantic,Florida Atlantic University,72083467621.0,2020-04-22 19:07,30808.0,1598.0,1499.0,Public,www.fau.edu,77836.0,79892.0
+Florida International University,,floridainternational,FIU,Florida International University,19278722584.0,2020-04-22 19:07,58787.0,2338.0,9856.0,,www.fiu.edu,144768.0,146776.0
+Georgia Southern University,,GeorgiaSouthern,GeorgiaSouthern,Georgia Southern University,25545934041.0,2020-04-22 19:07,26408.0,,,Public,www.georgiasouthern.edu,91824.0,92525.0
+Georgia State University,,GeorgiaStateUniversity,GeorgiaStateU,Georgia State University,155336467863089.0,2020-04-22 19:07,52814.0,1586.0,3627.0,,www.gsu.edu,107720.0,109770.0
+Indiana State University,,IndianaState,indianastate,Indiana State University,38248226878.0,2020-04-22 19:07,12531.0,674.0,,Public,www.indstate.edu,42989.0,43181.0
+Indiana University of Pennsylvania,,iupedu,IndianaUniv,Indiana University of Pennsylvania,24467978227.0,2020-04-22 19:07,11325.0,700.0,,Public,www.iup.edu,56480.0,55989.0
+Jackson State University,,JacksonState,JacksonStateU,Jackson State University,19312397001.0,2020-04-22 19:08,7020.0,450.0,1208.0,Public,www.jsums.edu,56480.0,55989.0
+Lamar University,,LamarUniversity,LamarUniversity,Lamar University,11505429287.0,2020-04-22 19:08,15460.0,634.0,,Public,www.lamar.edu,52860.0,53448.0
+Lynn University,,LynnUniversity,LynnUniversity,Lynn University,8316917020.0,2020-04-22 19:08,3000.0,,,,lynn.edu,17776.0,18623.0
+Middle Tennessee State University,,mtsublueraiders,MTSUNews,Middle Tennessee State University (MTSU),13178216234.0,2020-04-22 19:08,21913.0,900.0,,Public,www.mtsu.edu,102083.0,101910.0
+Montana State University,,montanastate,montanastate,Montana State University,53472787405.0,2020-04-22 19:08,16902.0,1330.0,2300.0,Public,montana.edu,114950.0,115320.0
+Morgan State University,,morganstateu,MorganStateU,Morgan State University,140717161810.0,2020-04-22 19:08,7698.0,1556.0,437.0,Public,www.morgan.edu,56543.0,59021.0
+National Louis University,,NationalLouis,NationalLouisU,National Louis University,54486905469.0,2020-04-22 19:17,,,,,,16758.0,16600.0
+North Carolina A&T State University,,ncatsuaggies,ncatsuaggies,North Carolina A&T State University,262257370546.0,2020-04-22 19:19,12142,759,,Public,www.ncat.edu,62678,66762
+Northern Arizona University,,NAUFlagstaff,NAU,Northern Arizona University,17091779559.0,2020-04-22 19:19,30736,1151,,Public,www.nau.edu,78290,79647
+Northern Illinois University,,NorthernIllUniv,NIUlive,Northern Illinois University,75011561973.0,2020-04-22 19:19,20015,,,Public,www.niu.edu,80435,79794
+Nova Southeastern University,,NovaSoutheastern,NovaSE,Nova Southeastern University,62550624720.0,2020-04-22 19:19,20435,,,Private,www.nova.edu,80435,79794
+Oakland University,,oaklandu,oaklandu,Oakland University,16479682578.0,2020-04-22 19:19,20012,,,Public,www.oakland.edu,48519,49079
+Old Dominion University,,Old.Dominion.University,ODUnow,Old Dominion University,113476155329739.0,2020-04-22 19:19,25000,1023,,Public,www.odu.edu,67881,68247
+Our Lady of the Lake University,,OurLadyoftheLakeUniversity,OLLUnivSATX,Our Lady of the Lake University,104075309629195.0,2020-04-22 19:19,3173,,,Private,www.ollusa.edu,8712,9031
+Portland State University,,portlandstatefans,Portland_State,Portland State University,60470598871.0,2020-04-22 19:19,28241,1764,678,Public,www.pdx.edu,8712,9031
+Regent University,,regentuniversity,RegentU,Regent University,56413203511.0,2020-04-22 19:20,8630,685,402,Private,Official website,134918,135578
+Sam Houston State University,,samhoustonstate,SamHoustonState,Sam Houston State University,25099076618.0,2020-04-22 19:20,21213,598,,Public,www.shsu.edu,86913,84782
