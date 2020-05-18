@@ -145,7 +145,7 @@ def getvendors(df, verbose):
     dfvendors = pd.read_csv(vendorlistcsv)
     vendorlist = dfvendors['Vendors'].tolist()
 
-    # following line is debugging purposes
+    # following line is for debugging purposes
     # vendorurllist = []
 
     # vendorlist = ['e2ma', 'cascade', 'siteimprove', 'qualtrics']
@@ -219,11 +219,11 @@ def getvendors(df, verbose):
             if not urlfound:
                 vndrurls.append('NA')
 
-        # following line is debugging purposes
+        # following line is for debugging purposes
         # vendorurllist.append(vndrurls)
         df[vendor] = vndrurls
 
-    # following line is debugging purposes
+    # following line is for debugging purposes
     # print(vendorurllist)
     return df
 
