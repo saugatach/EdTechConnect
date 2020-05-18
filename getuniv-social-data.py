@@ -132,9 +132,110 @@ def assignvalues(df, inx, datadict):
     return df
 
 
+
+def getvendors(df, verbose):
+    """
+    Find if university uses any vendor from local list of vendors
+    :param df:
+    :param verbose:
+    :return:
+    """
+
+    vendorlistcsv = 'vendors.csv'
+    dfvendors = pd.read_csv(vendorlistcsv)
+    vendorlist = dfvendors['Vendors'].tolist()
+
+    # following line is debugging purposes
+    # vendorurllist = []
+
+    # vendorlist = ['e2ma', 'cascade', 'siteimprove', 'qualtrics']
+    for vendor in vendorlist:
+        vndrurls = []
+
+        print("Checking for vendor:", vendor)
+
+        for s in tqdm(df['Website'], position=0, leave=True):
+
+            if not isinstance(s, str):
+                vndrurls.append('NA')
+                continue
+
+            if not re.findall('edu', s):
+                vndrurls.append('NA')
+                continue
+
+            if len(re.findall('edu', s)) == 0:
+                vndrurls.append('NA')
+                continue
+
+            if len(re.findall('https', s)) != 0:
+                s = re.sub('https://', '', s)
+
+            if len(re.findall('www', s)) != 0:
+                siteurl = re.sub('www.', '', s)
+            else:
+                siteurl = s
+
+            vendor_url0 = 'https://' + vendor + '.' + siteurl
+
+            urlsplittemplist1 = siteurl.split('.')
+            urlsplittemplist2 = [urlsplittemplist1[0], vendor]
+            urlsplittemplist2.extend(urlsplittemplist1[1:])
+
+            vendor_url1 = 'https://' + '.'.join(urlsplittemplist2)
+
+            if verbose:
+                print("Checking ...", vendor_url0, vendor_url1)
+            try:
+                response = requests.get(vendor_url0, timeout=3)
+                # check if vendor url was redirected to university website
+                if response.history:
+                    if verbose:
+                        print("Request was redirected")
+                else:
+                    vndrurls.append(vendor_url0)
+                    urlfound = True
+            except ConnectionError as e:
+                try:
+                    response = requests.get(vendor_url1, timeout=3)
+                    # check if vendor url was redirected to university website
+                    if response.history:
+                        if verbose:
+                            print("Request was redirected")
+                    else:
+                        vndrurls.append(vendor_url1)
+                        urlfound = True
+                except ConnectionError as e:
+                    urlfound = False
+                    if verbose:
+                        print(vendor_url1, "not found")
+                except:
+                    urlfound = False
+                    raise
+            except:
+                urlfound = False
+                raise
+
+            if not urlfound:
+                vndrurls.append('NA')
+
+        # following line is debugging purposes
+        # vendorurllist.append(vndrurls)
+        df[vendor] = vndrurls
+
+    # following line is debugging purposes
+    # print(vendorurllist)
+    return df
+
+
 # ---========================MAIN MODULE=========================---
 
-df_univ = pd.read_csv('univ_data.csv')
-headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+csvfile = 'univ_data.csv'
+df_univ = pd.read_csv(csvfile)
 
-getdata(df_univ, verbose=True)
+# df_univ = getdata(df_univ, verbose=True)
+df_univ = getvendors(df_univ, verbose=False)
+print(tabulate(df_univ, headers='keys', tablefmt='psql'))
+df_univ.to_csv(csvfile, index=False)
+
+
